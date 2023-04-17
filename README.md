@@ -10,7 +10,9 @@ A Full-stack developer with 2 years of experience, proficient in Angular, JavaSc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saurabhraidev/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/saurabhraidev) [![Total Stars on Github](https://custom-icon-badges.demolab.com/github/stars/saurabhraidev?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/saurabhraidev?tab=repositories&sort=stargazers)
 
-[![My Personal Website](https://custom-icon-badges.demolab.com/badge/Personal%20Website-gold?style=for-the-badge&logo=globe&logoColor=black)](https://github.com/saurabhraidev?tab=repositories&sort=stargazers) [![My Email](https://custom-icon-badges.demolab.com/badge/-srhb077@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white)](mailto:srbh077@gmail.com)
+[![My Personal Website](https://custom-icon-badges.demolab.com/badge/www.saurabhraidev.co-gold?style=for-the-badge&logo=globe&logoColor=black)](https://github.com/saurabhraidev?tab=repositories&sort=stargazers)
+
+[![My Email](https://custom-icon-badges.demolab.com/badge/-srhb077@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white)](mailto:srbh077@gmail.com)
 
 <br>
 
