@@ -16,6 +16,8 @@ Passionate about contributing to open-source projects and actively seeking out o
 
 [![My Email](https://custom-icon-badges.demolab.com/badge/-srhb077@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white)](mailto:srbh077@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=saurabhraidev&color=green&style=for-the-badge)
+
 <br/>
 
 # 💻 Tech Stack:
