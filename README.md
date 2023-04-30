@@ -2,7 +2,9 @@
 
 <h1 align="center">😎 Hi! I'm Saurabh Rai</h1>
 
-A Full-stack developer with 2 years of experience, proficient in Angular, JavaScript, HTML/CSS, Java, and Spring Boot, adept at crafting seamless and efficient web applications.
+As a Full-stack developer with ~1.6 years of experience. I'm proficient in Angular, JavaScript, HTML/CSS, Java, and Spring Boot, adept at crafting seamless and efficient web applications.
+
+Passionate about contributing to open-source projects and actively seeking out opportunities to lend my expertise to the community by contributing to various projects.
 
 <br/>
 
@@ -10,11 +12,11 @@ A Full-stack developer with 2 years of experience, proficient in Angular, JavaSc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saurabhraidev/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/saurabhraidev) [![Total Stars on Github](https://custom-icon-badges.demolab.com/github/stars/saurabhraidev?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/saurabhraidev?tab=repositories&sort=stargazers)
 
-[![My Personal Website](https://custom-icon-badges.demolab.com/badge/www.saurabhraidev.co-gold?style=for-the-badge&logo=globe&logoColor=black)](https://github.com/saurabhraidev?tab=repositories&sort=stargazers)
+[![My Personal Website](https://custom-icon-badges.demolab.com/badge/www.saurabhraidev.co-gold?style=for-the-badge&logo=globe&logoColor=black)](https://www.saurabhraidev.co)
 
 [![My Email](https://custom-icon-badges.demolab.com/badge/-srhb077@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white)](mailto:srbh077@gmail.com)
 
-<br>
+<br/>
 
 # 💻 Tech Stack:
 
@@ -22,29 +24,19 @@ A Full-stack developer with 2 years of experience, proficient in Angular, JavaSc
 
 </div>
 
-<br>
-
-# 📊 GitHub Stats:
+<br/>
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=saurabhraidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhraidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=saurabhraidev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurabhraidev&theme=dark&hide_border=false)
 
 </div>
 
 <br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=saurabhraidev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<div>
 
 ### ✍️ Random Dev Quote
 
