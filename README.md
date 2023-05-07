@@ -1,4 +1,4 @@
-<img src="assets/headerimage.png.png" height=50% alt="Philosophy at the center of everything.">
+<img src="assets/headerimage.jpg" height=50% alt="Philosophy at the center of everything.">
 
 <h1 align="center">😎 Hi! I'm Saurabh Rai</h1>
 
